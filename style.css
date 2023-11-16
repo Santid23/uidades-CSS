@@ -1,0 +1,106 @@
+
+#dimensiones {
+    width: 500px;
+    height: 300px;
+}
+
+img {
+    width: 30%;
+}
+
+header {
+    width: 80px;
+}
+
+#contendedor {
+    width: 200px;
+}
+
+#cuadrado {
+    width: 50%;
+    border: 1px black solid;
+}
+
+#columna {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+}
+
+.columna {
+    display: flex;
+    flex-direction: row;
+}
+
+.columna1 {
+    align-self: 200px;
+}
+
+#div1 {
+    font-size: 16px;
+}
+
+.p1 {
+    font-size: 1.5em;
+}
+
+.p2 {
+    font-size: 1.2em;
+}
+
+.p3 {
+    font-size: 0.8em;
+}
+
+#div2 {
+    font-size: 20rem;
+}
+
+#div3 {
+    font-size: 15rem;
+}
+
+
+#div4 {
+    font-size: 10rem;
+}
+
+.li1 {
+    font-size: 0.5em;
+}
+
+.li2 {
+    font-size: 1em;
+}
+
+.li3 {
+    font-size: 1.5em;
+}
+
+#principal {
+    background-color: deepskyblue;
+}
+
+.div5 {
+    background-color: 7d889a;
+}
+
+.div6 {
+    background-color: a3ff23;
+}
+
+.div7 {
+    background-color: 678912;
+}
+
+.div8 {
+    background-color: rgb(21 ,155, 201);
+}
+
+.div9 {
+    background-color: hsl(12, 48, 95);
+}
+
+.div10 {
+    background-color: hsl(76, 2, 42);
+}
